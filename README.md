@@ -82,7 +82,7 @@ plt.show()
 
 ### Results
 
-![Visualization of most demanded skills for top 3 roles in Mexico](3_Project\Images\skills_in_demand_top3_roles.png)
+![Visualization of most demanded skills for top 3 roles in Mexico](3_Project/Images/skills_in_demand_top3_roles.png)
 
 ### Insights
 
