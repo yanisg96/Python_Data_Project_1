@@ -107,7 +107,7 @@ plt.show()
 
 ### Results
 
-![Trending Top Skills for Data Analysts in Mexico](3_Project\Images\skills_trend_DA.png)
+![Trending Top Skills for Data Analysts in Mexico](3_Project/Images/skills_trend_DA.png)
 *Bar graph visualizing the trending top skills for data analysts in Mexico in 2023.*
 
 ### Insights:
@@ -131,7 +131,7 @@ plt.show()
 ```
 
 #### Results
-![Salary Distribution of Data Jobs in Mexico](3_Project\Images\salary_analysis.png)
+![Salary Distribution of Data Jobs in Mexico](3_Project/Images/salary_analysis.png)
 *Box plot visualizing the salart distributions for the top 6 data job titles.*
 
 #### Insights
@@ -156,7 +156,7 @@ plt.show()
 #### Results
 Here's the breakdown of the highest-paying & most in-demand skills in Mexico:
 
-![The Highest Paid & The Most In-Demand Skills for Data Analysts in Mexico](3_Project\Images\highest_paid_most_indemand.png)
+![The Highest Paid & The Most In-Demand Skills for Data Analysts in Mexico](3_Project/Images/highest_paid_most_indemand.png)
 *Two separate bar graphs visualizing the highest paid skills and most in-demand skills for data analysts in Mexico.*
 
 #### Insights
