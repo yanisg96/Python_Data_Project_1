@@ -160,4 +160,6 @@ Here's the breakdown of the highest-paying & most in-demand skills in Mexico:
 *Two separate bar graphs visualizing the highest paid skills and most in-demand skills for data analysts in Mexico.*
 
 #### Insights
-- 
+- The top graph of the Highest Paid Skills, shows that specialized technical skills like Scala, Spark and Go are associated with higher salaries, some reaching up to $140K, suggesting that advanced technical proficiency can increase earning potential.
+- The bottom graph highlights that foundational skills like Excel, Tableau, and Power BI are the most in-demand, followed by Python and SQL, even though they may not offer the highest salaries. This demonstrates the importance of these core skills for employability in data analysis roles.
+- There's a clear distinction between the skills that are highest paid and those that are most in-demand. Data analysts aiming to maximize their career potential should consider developing a diverse skill set that includes both high-paying specialized skills and widely demanded foundational skills.
