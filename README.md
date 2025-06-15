@@ -61,7 +61,7 @@ df_MX = df[df['job_country'] == 'Mexico']
 
 To find the most demanded skills for the top 3 most popular data roles: I filtered out those positions by which ones were the most popular, then got the top 5 skills for these top 3 roles. This query highlights the most popular job titles and their top skills, showing which skills I should pay attention to depending on the role I'm targeting.
 
-View my notebook with detailed steps here: [2_Skill_Demand.ipynb](3_Project\2_Skills_Count.ipynb)
+View my notebook with detailed steps here: [2_Skill_Demand.ipynb](3_Project/2_Skills_Count.ipynb)
 
 ### Visualize Data
 
@@ -93,7 +93,7 @@ plt.show()
 ## 2. How are in-demand skills trending for Data Analysts?
 To find how skills are trending in 2023 for Data Analysts in Mexico, first I filtered the Data Analyst positions, then grouped the skills by the month of the job posting. This resulted in the top 5 skills of data analysts by month, showing their popularity throughout 2023.
 
-View my notebook with detailed steps here: [3_Skills_Trend.ipynb](3_Project\3_Skills_Trend.ipynb)
+View my notebook with detailed steps here: [3_Skills_Trend.ipynb](3_Project/3_Skills_Trend.ipynb)
 
 ### Visualize Data
 
@@ -124,7 +124,7 @@ plt.show()
 ### Salary Analysis for Data Jobs
 To identify the highest paying roles and skills, first I filtered for jobs in Mexico and looked at their median salary. Looking at the salary distributions of common data jobs like Data Scientist, Data Engineer, and Data Analyst, to get the overall idea of which jobs are paid the most.
 
-View my notebook with detailed steps here: [4_Salary_Analysis.ipynb](3_Project\4_Salary_Analysis.ipynb)
+View my notebook with detailed steps here: [4_Salary_Analysis.ipynb](3_Project/4_Salary_Analysis.ipynb)
 
 #### Visualize Data
 
@@ -174,7 +174,7 @@ Here's the breakdown of the highest-paying & most in-demand skills in Mexico:
 ## 4. What is the most optimal skill to learn for Data Analysts?
 To identify the most optimal skills to learn (higher-paid and highest in demand), I calculated the percentage of skill demand and the median salary of these skills.
 
-View my notebook with detailed steps here: [5_Optimal_Skills](3_Project\5_Optimal_Skills.ipynb)
+View my notebook with detailed steps here: [5_Optimal_Skills](3_Project/5_Optimal_Skills.ipynb)
 
 ### Visualize Data
 
@@ -187,7 +187,7 @@ plt.show()
 ```
 
 ### Results
-![Most Optimal Skills for Data Analysts in Mexico](3_Project\Images\optimal_skills.png)
+![Most Optimal Skills for Data Analysts in Mexico](3_Project/Images/optimal_skills.png)
 *A scatter plot visualizing the most optimal skills (high paying & high demand) for data analysts in Mexico*
 
 ### Insights
